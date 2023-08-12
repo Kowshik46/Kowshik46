@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kowshik Kesavarapu</h1>
 <h3 align="center">A passionate and experienced Data Science Graduate with over 3 years of Experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kowshik46&label=Profile%20views&color=0e75b6&style=flat" alt="kowshik46" /> </p>
 
-- 🌱 I’m currently learning **LLM's**
+- 🌱 I’m currently learning about **LLM's**
 
 - 🤝 I’m looking for **Data Science Positions**
 
@@ -15,7 +14,7 @@
 
 - 📄 Know about my experiences [https://github.com/Kowshik46/My_resume/blob/main/Kowshik_Kesavarapu_Resume.pdf](https://github.com/Kowshik46/My_resume/blob/main/Kowshik_Kesavarapu_Resume.pdf)
 
-- ⚡ Fun fact **I am a very good cook**
+- ⚡ Fun fact **I am a very good at making delicious food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
