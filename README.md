@@ -1,20 +1,27 @@
 <h1 align="center">Hi 👋, I'm Kowshik Kesavarapu</h1>
-<h3 align="center">A passionate and experienced Data Science Graduate with over 3 years of Experience</h3>
-
+<h3 align="center">A passionate and experienced Data Scientist with over 4 years of Experience </h3>
+<br></br>
 
 - 🌱 I’m currently learning about **LLM's**
+<br></br>
 
 - 🤝 I’m looking for **Data Science Positions**
+<br></br>
 
 - 👨‍💻 All of my projects are available  [Right Here](https://github.com/kowshik46)
+<br></br>
 
 - 💬 Ask me about **Data and Science**
+<br></br>
 
 - 📫 How to reach me **kesav.koushik@gmail.com**
+<br></br>
 
 - 📄 Know about my experiences [Kowshik_Resume](https://github.com/Kowshik46/My_resume/blob/main/Kowshik_Kesavarapu_Resume.pdf)
+<br></br>
 
 - ⚡ Fun fact **I am very good at making delicious and spicy food**
+<br></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
