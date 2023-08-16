@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [Kowshik_Resume](https://github.com/Kowshik46/My_resume/blob/main/Kowshik_Kesavarapu_Resume.pdf)
 
-- ⚡ Fun fact **I am a very good at making delicious food**
+- ⚡ Fun fact **I am very good at making delicious and spicy food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
