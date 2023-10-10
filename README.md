@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and experienced Data Scientist with over 4 years of Experience </h3>
 <br></br>
 
-- 🌱 I’m currently learning about **LLM's**
+<h3 align ="center">- 🌱 I’m currently learning about **LLM's** </h3>
 <br></br>
 
 - 🤝 I’m looking for **Data Science Positions**
